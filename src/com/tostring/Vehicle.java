@@ -25,7 +25,8 @@ public class Vehicle {
 		Vehicle mto3=new Vehicle(199,"Yamaha",29,321);
 		Vehicle mt07=new Vehicle(245,"Yamaha",49,713);
 		Vehicle CBR=new Vehicle(199,"Honda",36,300);
-		System.out.println("hii");
+		System.out.println("hii prathamesh ");
+		
 
 	}
 
